@@ -5,11 +5,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/MohapatraSourav)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MohapatraSourav)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=moha&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/syedareehaquasar/syedareehaquasar?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
- <!-- <a href="https://github.com/MohapatraSourav/MohapatraSourav/actions">
-   <img alt="github-activity" src="https://github.com/MohapatraSourav/MohapatraSourav/workflows/update-gh-activity/badge.svg">
-  </a> -->
+
 
 
 <a href="https://in.linkedin.com/in/sourav-mohapatra0107">
