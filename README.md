@@ -19,7 +19,7 @@
 <br />
 
 ### Glad to see you here! 🤩 &nbsp;
-I am a data scientist working in Capgemini. I am a keen learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. I'm currently into Artificial Intelligence and working on my Development Skills.
+I am a data scientist working in Capgemini. I am a keen learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Artificial Intelligence and working on my Development Skills.
 
 <br />
 
