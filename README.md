@@ -1,4 +1,4 @@
-<p  align="center"><img src = "https://github.com/MohapatraSourav/MohapatraSourav/blob/master/gifs/intro.gif"></p>
+<p  align="center"><img src = "https://github.com/MohapatraSourav/MohapatraSourav/blob/main/gifs/intro.GIF"></p>
 
 ## Hello World! <img src="https://github.com/MohapatraSourav/MohapatraSourav/blob/main/gifs/Hi.gif" width="30px"></h2>
 <br />
