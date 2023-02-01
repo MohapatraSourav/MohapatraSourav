@@ -1,6 +1,6 @@
 <p  align="center"><img src = "https://github.com/MohapatraSourav/MohapatraSourav/blob/master/gifs/intro.gif"></p>
 
-## Hello World! <img src="https://raw.githubusercontent.com/MohapatraSourav/MohapatraSourav/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://github.com/MohapatraSourav/MohapatraSourav/blob/main/gifs/Hi.gif" width="30px"></h2>
 <br />
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/MohapatraSourav)
